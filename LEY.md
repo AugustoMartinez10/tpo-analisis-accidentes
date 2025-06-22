@@ -5,10 +5,5 @@ Esta ley regula la operación del sistema de transporte público mediante tarjet
 ## Fuente oficial
 https://boletinoficial.buenosaires.gob.ar/normativaba/norma/123445
 
-## Artículos utilizados:
-- **Artículo 1:** (resumen o cita)
-- **Artículo 3:** (resumen o cita)
-- **Artículo 5:** (resumen o cita)
 
-Estos artículos fueron tomados como base para definir la hipótesis y estructurar el análisis territorial de uso del transporte público.
 
