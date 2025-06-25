@@ -58,6 +58,3 @@ El análisis exploratorio y la minería de datos permitieron identificar hallazg
 ✔ Se identificaron zonas geográficas críticas mediante Clustering geográfico.
 
 Estos resultados constituyen una base sólida para diseñar políticas de prevención focalizadas y optimizar la seguridad vial.
-
-"""
-print(readme)
