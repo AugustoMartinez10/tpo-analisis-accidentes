@@ -1,4 +1,3 @@
-readme = """
 # TPO - Análisis de Accidentes de Tránsito en Argentina (2017 - 2023)
 
 ## Integrantes
