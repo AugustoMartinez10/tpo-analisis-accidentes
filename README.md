@@ -47,7 +47,10 @@ Dentro de este repositorio podrán encontrar:
   [tpo_miercoles.py](https://colab.research.google.com/drive/1Ux-tL65CVQUHia6x2HjlWOLPebk7BtJL?usp=sharing)  
 
 - Informe Looker exportado en PDF:  
-  [TPO_MIERCOLES.pdf](https://lookerstudio.google.com/reporting/9c6c4f46-133f-4330-8a57-479350025141)  
+  [TPO_MIERCOLES.pdf](https://lookerstudio.google.com/reporting/9c6c4f46-133f-4330-8a57-479350025141)
+
+- Presentacion en formato PDF:
+  ¨Presentación.pdf¨
 
 ## Conclusiones Finales
 
